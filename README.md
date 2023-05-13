@@ -25,10 +25,22 @@ Exploratory data analysis (EDA) can provide important insights into the customer
 
 By visualizing the data and identifying correlations between variables, researchers can gain a better understanding of the factors that influence customer churn. For example, by comparing the churn status variable with other variables such as tenure, monthly charges, and payment method, researchers can identify customer segments that are more likely to churn. 
 
-![gif](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyqVqHYAssYDfxJFCDK6zNqiwlwRCuNE1UgWyxIAuWw3OW_HyvKQg7IZHrEEmQwsMF0JqsAaFGecDX2T-cTVsmhtHcbVhmvLEvTHWuOpMbRv4PJEgPHD-zVui5KfLUv_0gG4x2JN4WALfxNxW7mCad1q8w69_5H0YGbvzZRyBxq-ExthoA2FlRun4/s400/Market%20research.gif)
 
 Similarly, by analyzing the relationship between internet service and online security, researchers can identify the factors that contribute to customer satisfaction and retention.
 
+![gif](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyqVqHYAssYDfxJFCDK6zNqiwlwRCuNE1UgWyxIAuWw3OW_HyvKQg7IZHrEEmQwsMF0JqsAaFGecDX2T-cTVsmhtHcbVhmvLEvTHWuOpMbRv4PJEgPHD-zVui5KfLUv_0gG4x2JN4WALfxNxW7mCad1q8w69_5H0YGbvzZRyBxq-ExthoA2FlRun4/s400/Market%20research.gif)
+
+
+### Decision tree classifier 
+It can be used to predict churn in the dataset. By analyzing the features in the dataset, such as gender, age, tenure, internet service, contract, and payment method, the decision tree classifier can be trained to predict which customers are more likely to churn.
+
+![gif](https://cdn-images-1.medium.com/fit/t/1600/480/1*7cyzrfuh9hKqz2lZxi_8ug.gif)
+
+For example, the decision tree classifier may determine that customers who have been with the company for a shorter amount of time, have a higher monthly charge, and do not have online security or backup services are more likely to churn. This information can be used by the company to target these customers with retention strategies, such as offering discounts or additional services.
+
+Additionally, the decision tree classifier can be used to identify the most important features that contribute to churn. This information can be used to prioritize the company's efforts to improve customer satisfaction and reduce churn. For example, if the classifier determines that internet service is the most important feature contributing to churn, the company may focus on improving the quality and reliability of their internet service.
+
+Overall, the decision tree classifier can provide valuable insights and predictions for the company to make data-driven decisions and reduce customer churn.
 
 
 ## Insights and Predictions from the Dataset
